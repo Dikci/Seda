@@ -1,7 +1,7 @@
 # Seda
 Seda Node Installation Instructions </br>
 
-# The guide was written by the author of the channel @Dikcicrypto
+### The guide was written by the author of the channel [@Dikcicrypto](https://t.me/DikciCrypto)
 
 ### [Official documentation](https://docs.seda.xyz/seda-network/introduction/the-oracle-problem)
 
